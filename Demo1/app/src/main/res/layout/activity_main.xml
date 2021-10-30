@@ -16,8 +16,15 @@
         android:layout_height="wrap_content"
         android:text="Hello"
         android:textSize="30dp" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hi"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello hello" />
 </RelativeLayout>
